@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 10px;
+}
+
+.header {
+    background-color: aqua;
+}
+
+.heading {
+    text-align: center;
+    font-size: 12px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.header1 p {
+    font-weight: 600;
+    font-size: 22px;
+    color: rgb(30, 106, 204);
+    margin-bottom: 8px;
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 22px;
+    margin-top: 8px;
+}
+
+.header6 {
+    font-weight: 800;
+    font-size: 22px;
+    color: rgb(20, 130, 121);
+    margin-bottom: 8px;
+    margin-left: 15px;
+    font-style: italic;
+}
